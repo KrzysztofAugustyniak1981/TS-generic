@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "Krzysztof Augustyniak",
   "type": "commonjs",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "dev": "tsc --watch --preserveWatchOutput"
   },
