@@ -1,0 +1,23 @@
+{
+  "name": "m3ts-generyki",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/KrzysztofAugustyniak1981/TS-generic#readme",
+  "bugs": {
+    "url": "https://github.com/KrzysztofAugustyniak1981/TS-generic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KrzysztofAugustyniak1981/TS-generic.git"
+  },
+  "license": "ISC",
+  "author": "Krzysztof Augustyniak",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

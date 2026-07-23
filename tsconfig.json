@@ -1,0 +1,10 @@
+
+{
+    "outDir": "./build", //where to put the TS files
+    "compilerOptions": {
+        "target": "es2015", //what version of JS to compile to
+        "moduleResolution": "nodenext", //what module system to use
+        "module": "nodenext",
+    },
+    "include": ["src"] //which files to include in compilation
+}
